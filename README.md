@@ -1,5 +1,5 @@
 # pookynet
-The Stable Diffusion LoRA for making AI slop of my cat. This repository includes configuration data and the base dataset; the Releases tab has finished LoRA adapters for SD1.4.
+The Stable Diffusion LoRA for making AI slop of my cat, Orion (affectionately called _Pooky_). This repository includes configuration data and the base dataset; the Releases tab has finished LoRA adapters for SD1.4.
 
 ## Samples
 These are just a couple examples of images created by PookyNET with the prompt `a cat`; for a more complete set of samples, view the `samples/` directory.
