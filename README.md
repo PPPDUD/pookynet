@@ -5,8 +5,13 @@ The Stable Diffusion LoRA for making AI slop of my cat, Orion (affectionately ca
 These are just a couple examples of images created by PookyNET with the prompt `a cat`; for a more complete set of samples, view the `samples/` directory.
 
 ### PookyNET 1.0
-![Test Image 1](samples/1.0/pookynet_1.0_00001_.png)
-![Test Image 1](samples/1.0/pookynet_1.0_00003_.png)
+![](samples/1.0/pookynet_1.0_00001_.png)
+![](samples/1.0/pookynet_1.0_00003_.png)
+
+### PookyNET 1.1
+![](samples/1.1/pookynet1.1_catsample_00018_.png)
+![](samples/1.1/pookynet1.1_catsample_00020_.png)
+
 
 ## Reviews
 Here's a quote from an anonymous friend of mine regarding PookyNET 1.0:
