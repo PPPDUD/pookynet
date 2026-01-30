@@ -16,6 +16,10 @@ These are just a couple examples of images created by PookyNET with the prompt `
 ![](samples/1.2/pookynet1.2_catsample_00002_.png)
 ![](samples/1.2/pookynet1.2_catsample_00020_.png)
 
+### PookyNET 1.3
+![](samples/1.3/pookynet1.3_catsample_00007_.png)
+![](samples/1.3/pookynet1.3_catsample_00019_.png)
+
 ## Reviews
 Here's a quote from an anonymous friend of mine regarding PookyNET 1.0:
 ~~~
