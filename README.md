@@ -36,7 +36,5 @@ If you have any kind words, please open an issue so that I can add them here!
 ## Dataset
 PookyNET has a small dataset of 512x512 cropped cat photos at the `dataset/` folder. Each image has a machine-generated annotation file that's been manually reviewed and edited as needed.
 
-## Known issues
-All current versions of PookyNET struggle with correctly depicting Pooky's eyeballs; the issue is mostly fixed in versions >=1.3.
 ## License
 PookyNET  © 2026 by PPPDUD is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
