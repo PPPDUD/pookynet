@@ -36,5 +36,18 @@ If you have any kind words, please open an issue so that I can add them here!
 ## Dataset
 PookyNET has a small dataset of 512x512 cropped cat photos at the `dataset/` folder. Each image has a machine-generated annotation file that's been manually reviewed and edited as needed.
 
+## Prompting tips
+### PookyNET 1.4
+PookyNET 1.4 has a known issue where the colors pink and purple tend to show up in odd places when generating an image. To fix this behavior, you should add `pink or purple colors` to your negative prompt.
+
+Before:
+
+![](samples/1.4/pookynet1.4_samples_00005_.png)
+
+After:
+
+![](samples/1.4/prompt-engineering/pookynet1.4_prompt_samples_00018_.png)
+
+
 ## License
 PookyNET  © 2026 by PPPDUD is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
