@@ -2,7 +2,7 @@
 The Stable Diffusion LoRA for making AI slop of my cat, Orion (affectionately called _Pooky_). This repository includes configuration data and the base dataset; the Releases tab has finished LoRA adapters for SD1.5.
 
 ## Samples
-These are just a couple examples of images created by PookyNET with the prompt `a cat`; for a more complete set of samples, view the `samples/` directory.
+These are just a few examples of images created by PookyNET; for a more complete set of samples, view the `samples/` directory.
 
 ### PookyNET 1.0
 ![](samples/1.0/pookynet_1.0_00001_.png)
@@ -23,6 +23,10 @@ These are just a couple examples of images created by PookyNET with the prompt `
 ### PookyNET 1.4
 ![](samples/1.4/pookynet1.4_samples_00018_.png)
 ![](samples/1.4/pookynet1.4_samples_00009_.png)
+
+### PookyNET 1.5
+![](samples/1.5/pookynet1.5_samples_00032_.png)
+![](samples/1.5/pookynet1.5_samples_00009_.png)
 
 ## Reviews
 Here's a quote from an anonymous friend of mine regarding PookyNET 1.0:
@@ -48,6 +52,8 @@ After:
 
 ![](samples/1.4/prompt-engineering/pookynet1.4_prompt_samples_00018_.png)
 
+### PookyNET 1.5
+PookyNET 1.5 tends to generate images of a much younger Orion with more distortion than usual. A fix is coming soon.
 
 ## License
 PookyNET  © 2026 by PPPDUD is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
